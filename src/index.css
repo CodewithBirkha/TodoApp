@@ -1,0 +1,65 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+header {
+	background: black;
+	height: 4em;
+	color: white;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+.form-group {
+	margin-bottom: 0.7em;
+}
+.btn {
+	background: black;
+	padding: 0.6em;
+	color: white;
+	border-radius: 8px;
+}
+.btn-edit {
+	background: rgb(15, 15, 97);
+	padding: 0.6em;
+	color: white;
+	border-radius: 8px;
+}
+.btn-delete {
+	background: rgb(214, 25, 66);
+	padding: 0.6em;
+	color: white;
+	border-radius: 8px;
+}
+.mb-2 {
+	margin-bottom: 2em;
+}
+.container {
+	display: flex;
+	margin-top: 3em;
+	justify-content: space-evenly;
+}
+.home-link{
+	margin-left: 5rem;
+	color: aliceblue;
+
+	list-style: none;
+	height: 2rem;
+	width: 3rem;
+	text-align: center;
+	
+}
+.about-link{
+	margin-left: 2rem;
+	color: aliceblue;
+	
+	list-style: none;
+	height: 2rem;
+	width: 3rem;
+	text-align: center;
+	font-weight: bold;
+	
+}
+
+
+
